@@ -30,7 +30,7 @@ The dataset used comes from Kaggle and can be found [here](https://www.kaggle.co
      - K-Nearest Neighbors (KNN)
      - Naive Bayes
      - Decision Tree
-5. **Model Evaluation**: Calculating the accuracy of the model
+5. **Evaluation**: Calculating the accuracy of the model
 
 ## Result
 Random Forest is the best model with an accuracy value of 84%.
